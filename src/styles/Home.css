@@ -1,0 +1,9 @@
+.home-container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.spline-wrapper canvas {
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 1rem;
+}
